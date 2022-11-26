@@ -1,6 +1,6 @@
 # Proyecto_AML
 
-The required files to run the main.py file are located in illano/Proyecto_AML/Entrega_codigo. These files (val.json, train.json, state_dict.pt, trainer1.py) and the main.py file need to be located on the same level. 
+The required files to run the main.py file are located in illano/Proyecto_AML/Entrega_codigo. These files (val.json, state_dict.pt, trainer1.py) and the main.py file need to be located on the same level. 
 
 To replicate the evaluation results run the following command:
 
